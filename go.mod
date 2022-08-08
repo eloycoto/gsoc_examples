@@ -1,4 +1,4 @@
-module github.com/eloycoto/gsoc_samples
+module github.com/eloycoto/gsoc_examples
 
 go 1.17
 
